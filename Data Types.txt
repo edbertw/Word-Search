@@ -1,0 +1,11 @@
+integer
+list
+string
+boolean
+char
+array
+stack
+queue
+dictionary
+set
+tuple
